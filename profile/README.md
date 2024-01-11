@@ -23,3 +23,9 @@ Check out each project's individual README for detailed instructions on getting 
 Have questions, ideas, or feedback? Reach out to us on [GitHub Discussions](https://github.com/orgs/openhue/discussions) or follow us on X [@OpenHueProject](https://twitter.com/OpenHueProject) for updates and tips!
 
 Let's light up the future together! 💡✨
+
+## Acknowledgments
+
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
+
+We want to extend our heartfelt gratitude to [JetBrains](https://www.jetbrains.com) for their generous support of the OpenHue Project. They have graciously provided [Licenses for Open Source Development](https://jb.gg/OpenSourceSupport) for OpenHue, which will be instrumental in our developments efforts.
