@@ -8,9 +8,11 @@ automation scripts, or anything in between.
 
 ## Our Projects
 
-📗 **[openhue-api](https://github.com/openhue/openhue-api)**: The heart of OpenHue Project, an OpenAPI specification for the Philips Hue REST API. Connect and control Hue devices effortlessly.
+### 📗 **[openhue-api](https://github.com/openhue/openhue-api)**
+The heart of OpenHue Project, an OpenAPI specification for the Philips Hue REST API. Integrate, connect and control Hue devices effortlessly.
 
-💻 **[openhue-cli](https://github.com/openhue/openhue-cli)**: Automation made easy. Stay tuned for our CLI tool that harnesses the power of Philips Hue APIs for efficient automation.
+### 💻 **[openhue-cli](https://github.com/openhue/openhue-cli)** 
+Automation made easy. Stay tuned for our CLI tool that harnesses the power of Philips Hue APIs for efficient automation.
 
 ## Get Started
 
