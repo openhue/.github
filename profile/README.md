@@ -1,6 +1,4 @@
-# Welcome to OpenHue Project!
-
-## About Us
+# Welcome to the OpenHue Project!
 
 We're on a mission to make integrating Philips Hue smart lighting easier than ever. 
 Our open-source projects simplify your development process, whether you're building a smart home app, 
