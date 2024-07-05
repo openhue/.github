@@ -12,6 +12,9 @@ The heart of OpenHue Project, an OpenAPI specification for the Philips Hue REST 
 ### 💻 **[openhue-cli](https://github.com/openhue/openhue-cli)** 
 Automation made easy. Stay tuned for our CLI tool that harnesses the power of Philips Hue APIs for efficient automation.
 
+### 🐹 **[openhue-go](https://github.com/openhue/openhue-go)** 
+Illuminate your projects with OpenHue Go: the ultimate Go library for seamless Philips Hue smart lighting integration.
+
 ## Get Started
 
 Check out each project's individual README for detailed instructions on getting started. Join our community and help us create brilliant lighting experiences!
