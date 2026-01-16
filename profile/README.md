@@ -15,6 +15,9 @@ Automation made easy. Stay tuned for our CLI tool that harnesses the power of Ph
 ### 🐹 **[openhue-go](https://github.com/openhue/openhue-go)** 
 Illuminate your projects with OpenHue Go: the ultimate Go library for seamless Philips Hue smart lighting integration.
 
+### ⚡️ **[openhue-raycast](https://github.com/openhue/openhue-raycast)** 
+Control your Philips Hue lighting system from [Raycast](https://www.raycast.com).
+
 ## Get Started
 
 Check out each project's individual README for detailed instructions on getting started. Join our community and help us create brilliant lighting experiences!
